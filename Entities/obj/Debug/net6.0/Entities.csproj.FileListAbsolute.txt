@@ -1,0 +1,12 @@
+/media/buddy/dev/apps/docker-series/AccountOwnerServer/Entities/bin/Debug/net6.0/Entities.deps.json
+/media/buddy/dev/apps/docker-series/AccountOwnerServer/Entities/bin/Debug/net6.0/Entities.dll
+/media/buddy/dev/apps/docker-series/AccountOwnerServer/Entities/bin/Debug/net6.0/ref/Entities.dll
+/media/buddy/dev/apps/docker-series/AccountOwnerServer/Entities/bin/Debug/net6.0/Entities.pdb
+/media/buddy/dev/apps/docker-series/AccountOwnerServer/Entities/obj/Debug/net6.0/Entities.csproj.AssemblyReference.cache
+/media/buddy/dev/apps/docker-series/AccountOwnerServer/Entities/obj/Debug/net6.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/media/buddy/dev/apps/docker-series/AccountOwnerServer/Entities/obj/Debug/net6.0/Entities.AssemblyInfoInputs.cache
+/media/buddy/dev/apps/docker-series/AccountOwnerServer/Entities/obj/Debug/net6.0/Entities.AssemblyInfo.cs
+/media/buddy/dev/apps/docker-series/AccountOwnerServer/Entities/obj/Debug/net6.0/Entities.csproj.CoreCompileInputs.cache
+/media/buddy/dev/apps/docker-series/AccountOwnerServer/Entities/obj/Debug/net6.0/Entities.dll
+/media/buddy/dev/apps/docker-series/AccountOwnerServer/Entities/obj/Debug/net6.0/ref/Entities.dll
+/media/buddy/dev/apps/docker-series/AccountOwnerServer/Entities/obj/Debug/net6.0/Entities.pdb

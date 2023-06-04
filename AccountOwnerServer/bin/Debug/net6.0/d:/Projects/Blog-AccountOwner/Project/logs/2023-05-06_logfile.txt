@@ -1,0 +1,2 @@
+2023-05-06 15:41:00.2267 INFO Returned all owners from database.
+2023-05-06 15:41:11.6636 INFO Returned all owners from database.

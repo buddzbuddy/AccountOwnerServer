@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "KVjCFyEl1qRdcjbAhLcwO9ZVnVb+OQ3MsLDTa/YE+5HWe3n11NuPou2R7e/F+xawA0vAPtjooJVjPTcTAzX4og==",
+  "success": true,
+  "projectFilePath": "/media/buddy/dev/apps/docker-series/AccountOwnerServer/Entities/Entities.csproj",
+  "expectedPackageFiles": [
+    "/home/buddy/.nuget/packages/microsoft.entityframeworkcore/6.0.2/microsoft.entityframeworkcore.6.0.2.nupkg.sha512",
+    "/home/buddy/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.2/microsoft.entityframeworkcore.abstractions.6.0.2.nupkg.sha512",
+    "/home/buddy/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.2/microsoft.entityframeworkcore.analyzers.6.0.2.nupkg.sha512",
+    "/home/buddy/.nuget/packages/microsoft.extensions.caching.abstractions/6.0.0/microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
+    "/home/buddy/.nuget/packages/microsoft.extensions.caching.memory/6.0.1/microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
+    "/home/buddy/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.0/microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "/home/buddy/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/home/buddy/.nuget/packages/microsoft.extensions.logging/6.0.0/microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "/home/buddy/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/home/buddy/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/home/buddy/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/home/buddy/.nuget/packages/system.collections.immutable/6.0.0/system.collections.immutable.6.0.0.nupkg.sha512",
+    "/home/buddy/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0/system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "/home/buddy/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
