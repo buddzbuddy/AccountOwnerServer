@@ -529,11 +529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/buddy/dev/apps/docker-series/AccountOwnerServer/Entities/Entities.csproj",
+      "projectUniqueName": "/media/buddy/dev1/apps/docker-series/AccountOwnerServer/Entities/Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "/media/buddy/dev/apps/docker-series/AccountOwnerServer/Entities/Entities.csproj",
+      "projectPath": "/media/buddy/dev1/apps/docker-series/AccountOwnerServer/Entities/Entities.csproj",
       "packagesPath": "/home/buddy/.nuget/packages/",
-      "outputPath": "/media/buddy/dev/apps/docker-series/AccountOwnerServer/Entities/obj/",
+      "outputPath": "/media/buddy/dev1/apps/docker-series/AccountOwnerServer/Entities/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/buddy/.nuget/NuGet/NuGet.Config"

@@ -1125,11 +1125,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/buddy/dev/apps/docker-series/AccountOwnerServer/AccountOwnerServer/AccountOwnerServer.csproj",
+      "projectUniqueName": "/media/buddy/dev1/apps/docker-series/AccountOwnerServer/AccountOwnerServer/AccountOwnerServer.csproj",
       "projectName": "AccountOwnerServer",
-      "projectPath": "/media/buddy/dev/apps/docker-series/AccountOwnerServer/AccountOwnerServer/AccountOwnerServer.csproj",
+      "projectPath": "/media/buddy/dev1/apps/docker-series/AccountOwnerServer/AccountOwnerServer/AccountOwnerServer.csproj",
       "packagesPath": "/home/buddy/.nuget/packages/",
-      "outputPath": "/media/buddy/dev/apps/docker-series/AccountOwnerServer/AccountOwnerServer/obj/",
+      "outputPath": "/media/buddy/dev1/apps/docker-series/AccountOwnerServer/AccountOwnerServer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/buddy/.nuget/NuGet/NuGet.Config"
@@ -1144,11 +1144,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/media/buddy/dev/apps/docker-series/AccountOwnerServer/LoggerService/LoggerService.csproj": {
-              "projectPath": "/media/buddy/dev/apps/docker-series/AccountOwnerServer/LoggerService/LoggerService.csproj"
+            "/media/buddy/dev1/apps/docker-series/AccountOwnerServer/LoggerService/LoggerService.csproj": {
+              "projectPath": "/media/buddy/dev1/apps/docker-series/AccountOwnerServer/LoggerService/LoggerService.csproj"
             },
-            "/media/buddy/dev/apps/docker-series/AccountOwnerServer/Repository/Repository.csproj": {
-              "projectPath": "/media/buddy/dev/apps/docker-series/AccountOwnerServer/Repository/Repository.csproj"
+            "/media/buddy/dev1/apps/docker-series/AccountOwnerServer/Repository/Repository.csproj": {
+              "projectPath": "/media/buddy/dev1/apps/docker-series/AccountOwnerServer/Repository/Repository.csproj"
             }
           }
         }

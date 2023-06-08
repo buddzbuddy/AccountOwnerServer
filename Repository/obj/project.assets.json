@@ -566,11 +566,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/buddy/dev/apps/docker-series/AccountOwnerServer/Repository/Repository.csproj",
+      "projectUniqueName": "/media/buddy/dev1/apps/docker-series/AccountOwnerServer/Repository/Repository.csproj",
       "projectName": "Repository",
-      "projectPath": "/media/buddy/dev/apps/docker-series/AccountOwnerServer/Repository/Repository.csproj",
+      "projectPath": "/media/buddy/dev1/apps/docker-series/AccountOwnerServer/Repository/Repository.csproj",
       "packagesPath": "/home/buddy/.nuget/packages/",
-      "outputPath": "/media/buddy/dev/apps/docker-series/AccountOwnerServer/Repository/obj/",
+      "outputPath": "/media/buddy/dev1/apps/docker-series/AccountOwnerServer/Repository/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/buddy/.nuget/NuGet/NuGet.Config"
@@ -585,11 +585,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/media/buddy/dev/apps/docker-series/AccountOwnerServer/Contracts/Contracts.csproj": {
-              "projectPath": "/media/buddy/dev/apps/docker-series/AccountOwnerServer/Contracts/Contracts.csproj"
+            "/media/buddy/dev1/apps/docker-series/AccountOwnerServer/Contracts/Contracts.csproj": {
+              "projectPath": "/media/buddy/dev1/apps/docker-series/AccountOwnerServer/Contracts/Contracts.csproj"
             },
-            "/media/buddy/dev/apps/docker-series/AccountOwnerServer/Entities/Entities.csproj": {
-              "projectPath": "/media/buddy/dev/apps/docker-series/AccountOwnerServer/Entities/Entities.csproj"
+            "/media/buddy/dev1/apps/docker-series/AccountOwnerServer/Entities/Entities.csproj": {
+              "projectPath": "/media/buddy/dev1/apps/docker-series/AccountOwnerServer/Entities/Entities.csproj"
             }
           }
         }
