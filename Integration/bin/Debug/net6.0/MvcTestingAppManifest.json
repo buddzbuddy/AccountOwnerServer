@@ -1,0 +1,7 @@
+{
+  "AccountOwnerServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/media\/buddy\/dev1\/apps\/docker-series\/AccountOwnerServer\/AccountOwnerServer",
+  "Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/media\/buddy\/dev1\/apps\/docker-series\/AccountOwnerServer\/Contracts",
+  "Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/media\/buddy\/dev1\/apps\/docker-series\/AccountOwnerServer\/Entities",
+  "LoggerService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/media\/buddy\/dev1\/apps\/docker-series\/AccountOwnerServer\/LoggerService",
+  "Repository, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/media\/buddy\/dev1\/apps\/docker-series\/AccountOwnerServer\/Repository"
+}
