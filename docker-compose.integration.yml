@@ -15,7 +15,7 @@ services:
   demoapp:
     depends_on:
       - db
-    image: my-registry:50000/buddzbuddy/demoapp:build-2
+    image: my-registry:50000/buddzbuddy/demoapp:build-8
   integration:
     depends_on:
       - demoapp
