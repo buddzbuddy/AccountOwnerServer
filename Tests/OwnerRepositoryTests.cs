@@ -25,6 +25,11 @@ public void GetAllOwners_ReturnsListOfOwners_WithSingleOwner()
     Assert.Single(result);
 }
 
+[Fact]
+public void FailedTest(){
+    Assert.Equal(0, 1);
+}
+
 public List<Owner> GetOwners()
 {
     return new List<Owner>
